@@ -1,0 +1,51 @@
+.indexbg {
+    background-image: url('../images/index-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headerfont {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.subheaderfont {
+    font-family: 'Outfit', sans-serif;
+    color: white;
+}
+
+.my-border-top {
+    border-top: 1px solid #000000 !important;
+  }
+
+.aboutheader {
+    font-family: 'Outfit';
+    font-weight: bold;
+    font-size: 64px;
+    color:ivory;
+}
+
+.aboutbg {
+    background-color: lavender;
+}
+
+.subheaderfont2 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+    color: black;
+}
+
+
+.subheaderfont3 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+    font-size: 36px;
+    color: black;
+}
+
+.resumebg {
+    background-color:blanchedalmond;
+}
+
+.indexbg1 {
+    background-color:darkseagreen;
+}
